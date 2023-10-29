@@ -2,6 +2,9 @@
 
 # LIVE DEMO: https://unfuckgpt.netlify.app/
 
+
+The demo works with minting NFT on BNB Smart chain.
+
 This app in an LLM that scrapes the biggest crypto news headlines every 5 hours and uses the FLock LLM to generate analysis about the current market sentiment. It has queries the cryptocurrency prices every hour from an onchain contract that uses the Flare Oracle to get them on-chain. This way we have verifiable on chain data for our app. 
    
 Access to the app is gated by an NFT, that can be minted on any chain of the user's choosing, and thanks to Wormhole, we can track memberships in the central smart contract on Polygon.

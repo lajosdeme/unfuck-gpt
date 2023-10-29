@@ -1,0 +1,9 @@
+[submodule "unfuck-gpt-frontend"]
+	path = unfuck-gpt-frontend
+	url = https://github.com/lajosdeme/unfuck-gpt-frontend
+[submodule "unfuck-gpt-contracts"]
+	path = unfuck-gpt-contracts
+	url = https://github.com/lajosdeme/unfuck-gpt-contracts
+[submodule "unfuck-gpt-backend"]
+	path = unfuck-gpt-backend
+	url = https://github.com/lajosdeme/unfuck-gpt-backend

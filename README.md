@@ -1,6 +1,6 @@
 # UnfuckGPT
 
-# IMPORTANT: The youtube link I used in the submission is broken, please check the demo here: https://www.youtube.com/watch?v=IpGaj0ErODM     
+# LIVE DEMO: https://unfuckgpt.netlify.app/
 
 This app in an LLM that scrapes the biggest crypto news headlines every 5 hours and uses the FLock LLM to generate analysis about the current market sentiment. It has queries the cryptocurrency prices every hour from an onchain contract that uses the Flare Oracle to get them on-chain. This way we have verifiable on chain data for our app. 
    
